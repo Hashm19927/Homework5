@@ -1,0 +1,15 @@
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ5\Задача1\obj\Debug\net6.0\Задача1.csproj.AssemblyReference.cache
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ5\Задача1\obj\Debug\net6.0\Задача1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ5\Задача1\obj\Debug\net6.0\Задача1.AssemblyInfoInputs.cache
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ5\Задача1\obj\Debug\net6.0\Задача1.AssemblyInfo.cs
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ5\Задача1\obj\Debug\net6.0\Задача1.csproj.CoreCompileInputs.cache
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ5\Задача1\bin\Debug\net6.0\Задача1.exe
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ5\Задача1\bin\Debug\net6.0\Задача1.deps.json
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ5\Задача1\bin\Debug\net6.0\Задача1.runtimeconfig.json
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ5\Задача1\bin\Debug\net6.0\Задача1.dll
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ5\Задача1\bin\Debug\net6.0\Задача1.pdb
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ5\Задача1\obj\Debug\net6.0\Задача1.dll
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ5\Задача1\obj\Debug\net6.0\refint\Задача1.dll
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ5\Задача1\obj\Debug\net6.0\Задача1.pdb
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ5\Задача1\obj\Debug\net6.0\Задача1.genruntimeconfig.cache
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ5\Задача1\obj\Debug\net6.0\ref\Задача1.dll
